@@ -1,0 +1,2 @@
+# cloudbot-github
+# comcloudbot-discord
